@@ -65,7 +65,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	</div>
 	<div class="row">
 		<div class="span8">
-			 <span class="label">文字标签</span>
+			 <span class="label">文字标签111</span>
 		</div>
 		<div class="span4">
 			<form class="form-search">
